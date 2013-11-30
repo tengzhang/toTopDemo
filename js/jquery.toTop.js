@@ -6,7 +6,7 @@ $(function() {
 		}
 
 		var options = $.extend(defaults, options);
-		$('body').append('<div id="toTop">返回</div>');
+		$('body').append('<div id="toTop">返回顶部</div>');
 
 		var $toTop = $('#toTop');
 
